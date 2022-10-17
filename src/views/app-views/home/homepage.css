@@ -1,0 +1,25 @@
+.homepage-main {
+  @apply text-white;
+  font-family: "Dosis", sans-serif;
+}
+
+.modalBtn {
+  position: fixed;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: -1;
+  padding: 12px 24px;
+}
+
+.modalContainer {
+  max-width: 900px;
+  width: 100%;
+  position: fixed;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  background-color: #fff;
+  box-shadow: 0px 0px 18px 0px rgba(0, 0, 0, 0.75);
+}

@@ -1,0 +1,4 @@
+.left-panel {
+  @apply font-bold text-4xl;
+  background-color: #e8e8fd;
+}
